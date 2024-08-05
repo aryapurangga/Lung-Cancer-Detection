@@ -2,7 +2,7 @@
 ## Methods
 - **Backpropagation (ANN)**
 - **Decision Tree (C4.5)**
-## Decription
+## Description
 The lungs are one of the vital organs in the human body, functioning as part of the respiratory and circulatory systems. They play a crucial role in the exchange of Oxygen (O2) and Carbon Dioxide (CO2) in the body. Maintaining the health of the lungs is essential, as any disease can affect them, with lung cancer being one of the deadliest, posing a global health issue. Early detection of lung cancer plays a vital role in improving patient survival rates.
 In this study, a Machine Learning approach using Artificial Neural Network (ANN) and Decision Tree methods was employed to detect lung cancer. The algorithms utilized in this research were Backpropagation for ANN and C4.5 for Decision Tree. The study adopted a quantitative experimental approach, obtaining data from the "Lung Cancer" dataset available on the Kaggle website.
 ## Result
